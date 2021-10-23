@@ -1,0 +1,29 @@
+*{
+    margin:2;
+    padding:2;
+}
+
+body{
+    background-color: rgb(240, 231, 231);
+    font-family: Arial;
+    font-style: italic;
+}
+
+Header{
+    background-color: #3782b4;
+    text-align:center;
+    height:100px;
+    padding:2px;
+    font-style: Bold; 
+    font-weight: 900;
+    font-size: larger;
+}  
+.subtitle{
+    text-align: center;
+    margin:30px;
+    font-weight: 300;
+}
+footer{
+    text-align: center;
+    font-style: normal;
+}
